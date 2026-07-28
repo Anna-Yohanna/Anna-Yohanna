@@ -31,6 +31,6 @@ Analyzed consumer complaints to identify trends, evaluate response performance, 
 My goal is to leverage data analytics to help organizations make smarter decisions and solve real-world business challenges through data.
 
 ## Let's Connect
--![LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299/)
+[LinkedIn](https://www.linkedin.com/in/anna-yohanna-6421b1299)
 
 Thank you for visiting my GitHub profile!
